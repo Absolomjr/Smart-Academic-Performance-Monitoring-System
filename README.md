@@ -3,6 +3,7 @@
 
 
 INTRODUCTION TO SMART ACADEMIC PERFORMANCE MONITORING SYSTEM
+
 In Uganda, academic performance monitoring remains a crucial challenge for institutions at various education levels. Many schools and universities rely on manual systems or outdated software to track student progress, attendance, and performance. This leads to inefficiencies, data inconsistencies, and delays in decision-making regarding student progress and intervention strategies.
 The Smart Academic Performance Monitoring System (SAMS) is an innovative solution designed to streamline academic tracking by automating student performance monitoring, attendance tracking, and report generation. The system provides a robust platform for real-time data analysis, ensuring timely intervention for students who may require additional support. By integrating modern technologies such as biometric authentication, real-time notifications, and Learning Management System (LMS) interoperability, SAMS enhances efficiency and transparency in academic monitoring.
 BACKGROUND
